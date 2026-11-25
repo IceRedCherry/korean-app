@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#2E6F5E" />
+  <rect x="36" y="36" width="440" height="440" rx="86" fill="none" stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="8" />
+  <text
+    x="256"
+    y="328"
+    text-anchor="middle"
+    fill="#FFFFFF"
+    font-family="'Noto Sans KR', 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif"
+    font-size="250"
+    font-weight="700"
+  >한</text>
+</svg>

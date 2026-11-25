@@ -1,0 +1,31 @@
+{
+  "name": "Корейский на слух — тренажёр",
+  "short_name": "Корейский",
+  "description": "Интерактивный PWA-тренажёр для изучения хангыля, базовой лексики и понимания корейской речи на слух.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F8F9FA",
+  "theme_color": "#2E6F5E",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
